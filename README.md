@@ -1,6 +1,6 @@
 ![Hello](https://github.com/Gautamgn25/1stReadme/blob/main/1584023795.jpg)
 <h1 align="center">Hi 👋, I'm Gautam Nag</h1>
-<h3 align="center">A Coder from Academy of Technology studying CSBS'1st Year</h3>
+<h3 align="center">A student from Academy of Technology studying CSBS'1st Year</h3>
 
 - 🌱 I’m currently learning **C,C++,Java,Python**
 
