@@ -1,4 +1,4 @@
-
+![Hello](https://github.com/Gautamgn25/1stReadme/blob/main/1584023795.jpg)
 <h1 align="center">Hi 👋, I'm Gautam Nag</h1>
 <h3 align="center">A Coder from Academy of Technology studying CSBS'1st Year</h3>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gautam nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam nag" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautam-nag-726160221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam nag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
